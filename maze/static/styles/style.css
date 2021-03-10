@@ -1,0 +1,27 @@
+body { 
+    background-color: blue ;
+     
+   
+    
+  }
+
+header{
+  background-image: url("background2.jpg");
+  
+}
+
+
+
+h1{
+    color:rgb(254, 169, 0);
+    padding-left: 100px;
+    font-size: 80px;
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+table{
+  width: 100%;
+  color:rgb(254, 169, 0);
+  font-weight: 700;
+}
